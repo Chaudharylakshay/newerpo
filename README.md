@@ -1,2 +1,2 @@
-xz # newerpozxc v
+# newerpozxc v
 x c
